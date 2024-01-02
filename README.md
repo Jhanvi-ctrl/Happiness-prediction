@@ -1,0 +1,1 @@
+Developed a Happiness Prediction project leveraging machine learning techniques. Analyzed diverse datasets to build a predictive model, providing insights into factors influencing happiness levels. Check out the code to explore the intersection of data science and well-being! 
